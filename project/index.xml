@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project INDEX on My New Hugo Site</title>
+    <link>http://kkshmz.github.io/culnarra/project/</link>
+    <description>Recent content in Project INDEX on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2019 16:07:20 +0900</lastBuildDate>
+    
+	<atom:link href="http://kkshmz.github.io/culnarra/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
